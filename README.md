@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://user-images.githubusercontent.com/76453820/188102395-d3d9919f-9dcc-4f58-89f0-3b8ca555abe9.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/EricM5/BugViper">BugViper</a>.</li>
+<li>🔭 I’m currently working on <a href="https://github.com/EricM5/PuckSights">PuckSights</a>.</li>
 <li>:airplane: Go checkout <a href="https://github.com/EricM5/IntelliPrice.Api"><strong>my new API! </strong> </a></li>
 </ul>
 <h2>🚀 My languages/tools</h2>
