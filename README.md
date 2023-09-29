@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <h2>Hey there👋, I'm Eric</h2>
-<p>I'm currently a 2nd Year Computer Science Student at <strong><a href="https://www.ucsb.edu/"> UC Santa Barbara </a> </strong> with a love for developing new software, APIs, and algorithms.
+<p>I'm currently a 3rd Year Computer Science Student at <strong><a href="https://www.ucsb.edu/"> UC Santa Barbara </a> </strong> with a love for developing new software, APIs, and algorithms.
 </p>
 <p><a href="https://www.linkedin.com/in/eric-marzouk/"><img src="https://img.shields.io/badge/-@ericmarzouk-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/eric-marzouk/" alt="LinkedIn Badge"></a> <a href="https://open.spotify.com/user/hockey5ruless"><img src="https://img.shields.io/badge/-@ericm5%20-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/hockey5ruless" alt="Spotify Badge"></a></p>
 <p> :walking_man: A computer is mighty but no match for me in kickboxing :walking_man:	 </p>
