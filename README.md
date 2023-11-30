@@ -1,4 +1,3 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/76453820/188090824-2ce0d538-1a7b-445a-8185-ce40df4417cb.png"  ></p>
           
 <!--
 **EricM5/EricM5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
